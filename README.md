@@ -1,6 +1,6 @@
 # Lending_club_kaggle
 
-In this projects, I predicted which peer-to-peer loans are charged off or fully paid with 72% accuracy.
+In this project, I predicted which peer-to-peer loans are charged off or fully paid with 72% accuracy.
 
 **Project scope:**
 
